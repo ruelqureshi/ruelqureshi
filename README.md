@@ -39,7 +39,7 @@ AWS EC2 • Linux • PostgreSQL
 - **Automated Reddit-to-Social Media Publisher**
   - Automated content pipeline using multiple APIs and scheduled workflows.
 
-- **Automated Inventory Monitoring & Purchase Automation (Bitmain)**
+- **Bitmain Inventory & Purchase Automation**
   - Inventory monitoring and automated purchase workflow with browser automation.
 
 - **UPS Login & Browser Automation**
