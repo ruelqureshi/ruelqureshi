@@ -32,11 +32,11 @@ Google Apps Script • Selenium • Playwright • Scrapy • Appium • n8n (Fa
 ### Cloud & Database
 AWS EC2 • Linux • PostgreSQL
 
-Featured Projects
-. LLM-Powered YouTube Comment Automation — AI-powered workflow for generating and publishing context-aware YouTube replies.
-. Auto-post from Reddit to Instagram, X & Facebook — Automated content pipeline using multiple APIs and scheduled workflows.
-. Bitmain Purchase Automation — Inventory monitoring and automated purchase workflow with browser automation.
-. UPS Login Automation — Automated authenticated browser interactions using Selenium.
+### Featured Projects
+* LLM-Powered YouTube Comment Automation — AI-powered workflow for generating and publishing context-aware YouTube replies.
+* Auto-post from Reddit to Instagram, X & Facebook — Automated content pipeline using multiple APIs and scheduled workflows.
+* Bitmain Purchase Automation — Inventory monitoring and automated purchase workflow with browser automation.
+* UPS Login Automation — Automated authenticated browser interactions using Selenium.
 
 ## Currently Learning
 
