@@ -2,13 +2,7 @@
 
 **Python Backend Developer | AI Applications • FastAPI • OpenAI**
 
-I build Python backend services, automation tools, and AI-powered applications using FastAPI, OpenAI, and Python.
-
-My work focuses on backend API development, LLM integrations, workflow automation, and web data extraction. I enjoy translating business requirements into practical Python solutions.
-
-## Professional Experience
-
-Delivered **12+ client projects** for startups and businesses across the US and Europe, building Python backend services, AI integrations, and automation solutions.
+I build Python backend services, AI-powered applications, and automation tools that solve real business problems. Most of my work involves backend APIs, LLM integrations, workflow automation, and browser automation.
 
 ## What I Work With
 
@@ -38,11 +32,17 @@ Google Apps Script • Selenium • Playwright • Scrapy • Appium • n8n (Fa
 ### Cloud & Database
 AWS EC2 • Linux • PostgreSQL
 
+Featured Projects
+. LLM-Powered YouTube Comment Automation — AI-powered workflow for generating and publishing context-aware YouTube replies.
+. Auto-post from Reddit to Instagram, X & Facebook — Automated content pipeline using multiple APIs and scheduled workflows.
+. Bitmain Purchase Automation — Inventory monitoring and automated purchase workflow with browser automation.
+. UPS Login Automation — Automated authenticated browser interactions using Selenium.
+
 ## Currently Learning
 
 - Production-ready AI systems
 - Advanced FastAPI architecture
-- Scalable automation workflows
+- Scalable backends and automation workflows
 
 ## Connect
 
