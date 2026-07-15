@@ -47,8 +47,8 @@ AWS EC2 • Linux • PostgreSQL
 
 ## Currently Learning
 
-- Production-ready AI systems
-- Advanced FastAPI architecture
+- Scalable AI systems
+- Advanced FastAPI Design
 - Scalable backends and automation workflows
 
 ## Connect
