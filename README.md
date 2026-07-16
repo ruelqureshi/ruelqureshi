@@ -2,7 +2,7 @@
 
 **Python Backend Developer | AI Applications • Backend APIs • FastAPI**
 
-I build Python backend services, AI applications, and automation tools for client projects. Most of my work involves backend APIs, LLM integrations, workflow automation, and browser automation.
+I build Python backend services, AI applications, and automation tools for client projects. Most of my work involves backend APIs, LLM integrations, workflow and browser automation.
 
 ## What I Work With
 
