@@ -34,7 +34,7 @@ AWS EC2 • Linux • PostgreSQL
 
 ### Featured Projects
 - **LLM-Powered YouTube Comment Automation**
-  - AI workflow for generating and publishing context-aware YouTube replies.
+  - AI workflow for generating and publishing context-aware YouTube comment replies.
   
 - **Automated Reddit-to-Social Media Publisher**
   - Automated content pipeline using multiple APIs and scheduled workflows.
