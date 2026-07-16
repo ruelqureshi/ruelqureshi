@@ -47,8 +47,7 @@ AWS EC2 • Linux • PostgreSQL
 
 ## Currently Learning
 
-- Async Python
-- Advanced FastAPI patterns
+- n8n workflow automation
 - Agentic AI systems
 
 ## Connect
